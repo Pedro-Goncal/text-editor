@@ -6,6 +6,22 @@
   text-align: left;
 }
 
+.banner {
+  margin: 30px;
+  padding: 10px;
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 42px;
+  background-image: linear-gradient(to right, #000000, #d5d5d5);   
+  background-clip: text;
+  color: transparent;
+  letter-spacing: 5px;
+  word-spacing: 10px;
+}
+
+.form-control {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.282);
+}
+
 #text-input {
   min-height: 200px;
 }
